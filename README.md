@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Abbas%20Qazi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abbas-qazi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ali--Abbas--Qazi-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ali-Abbas-Qazi)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Module-E3120B?style=flat&logo=googlechrome&logoColor=white)](https://ali-abbas-qazi.github.io/CodeAlpha_Phishing_Awareness_Training/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Module-E3120B?style=flat&logo=googlechrome&logoColor=white)](https://ali-abbas-qazi.github.io/CodeAlpha_Phishing_Awareness/)
 
 *An interactive, self-paced web module that teaches people to recognise phishing emails, fake websites and social engineering, then tests them with a scored quiz.*
 
