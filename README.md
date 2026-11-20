@@ -6,9 +6,16 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Abbas%20Qazi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abbas-qazi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ali--Abbas--Qazi-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ali-Abbas-Qazi)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Module-E3120B?style=flat&logo=googlechrome&logoColor=white)](https://ali-abbas-qazi.github.io/CodeAlpha_Phishing_Awareness/)
 
 *An interactive, self-paced web module that teaches people to recognise phishing emails, fake websites and social engineering, then tests them with a scored quiz.*
+
+<br>
+
+<a href="https://ali-abbas-qazi.github.io/CodeAlpha_Phishing_Awareness/">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20%20OPEN%20THE%20LIVE%20TRAINING%20MODULE-E3120B?style=for-the-badge&logoColor=white" alt="Open the live training module" height="44">
+</a>
+
+**[ali-abbas-qazi.github.io/CodeAlpha_Phishing_Awareness](https://ali-abbas-qazi.github.io/CodeAlpha_Phishing_Awareness/)**
 
 </div>
 
@@ -20,6 +27,10 @@
 | **Author** | Ali Abbas Qazi |
 | **Tools Used** | HTML5, CSS3, vanilla JavaScript, GitHub Pages |
 | **Category** | Security Awareness · Social Engineering · Phishing Defence |
+| **Live Module** | **[Open the training module ↗](https://ali-abbas-qazi.github.io/CodeAlpha_Phishing_Awareness/)** |
+
+> [!TIP]
+> **Try it yourself:** the module runs in your browser with nothing to install. **[Click here to open the live training module ↗](https://ali-abbas-qazi.github.io/CodeAlpha_Phishing_Awareness/)**
 
 <div align="justify">
 
@@ -213,9 +224,9 @@ There is nothing to install. Use any one of these options:
 
 | Option | Steps |
 |---|---|
-| Online | Open the [live demo](https://ali-abbas-qazi.github.io/CodeAlpha_Phishing_Awareness_Training/) |
+| Online | Open the [live demo](https://ali-abbas-qazi.github.io/CodeAlpha_Phishing_Awareness/) |
 | Locally | Download `index.html` and open it in any modern browser |
-| Clone | `git clone https://github.com/Ali-Abbas-Qazi/CodeAlpha_Phishing_Awareness_Training.git` then open `index.html` |
+| Clone | `git clone https://github.com/Ali-Abbas-Qazi/CodeAlpha_Phishing_Awareness.git` then open `index.html` |
 
 > [!NOTE]
 > The page loads its fonts from Google Fonts. Offline, it falls back to system fonts and everything else still works.
@@ -225,7 +236,7 @@ There is nothing to install. Use any one of these options:
 ## Repository Structure
 
 ```
-CodeAlpha_Phishing_Awareness_Training/
+CodeAlpha_Phishing_Awareness/
 ├── index.html              # the complete training module
 ├── README.md
 └── screenshots/
@@ -286,6 +297,12 @@ A good next step would be tracking results across a team, or adding a simulated 
 ---
 
 <div align="center">
+
+<a href="https://ali-abbas-qazi.github.io/CodeAlpha_Phishing_Awareness/">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20%20OPEN%20THE%20LIVE%20TRAINING%20MODULE-E3120B?style=for-the-badge" alt="Open the live training module" height="40">
+</a>
+
+<br><br>
 
 **Ali Abbas Qazi**
 
